@@ -1,0 +1,48 @@
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.csprojResolveAssemblyReference.cache
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Main.resources
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.Cache
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+c:\users\vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\Vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.FillinBD.resources
+C:\Users\Vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.ResolveComReference.cache
+C:\Users\Vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Menu.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.PracticeAndGroup.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Forms.Calendar.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Forms.FillInBD.SubWorksEditForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Forms.Calendar.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.FillinBD.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Forms.FillInBD.SubWorksEditForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Menu.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Main.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.PracticeAndGroup.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.csprojResolveAssemblyReference.cache
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.ResolveComReference.cache
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.Forms.Calendar.resources
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.FillinBD.resources
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.Forms.FillInBD.SubWorksEditForm.resources
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.Menu.resources
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.Main.resources
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.PracticeAndGroup.resources
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.Cache
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\Interop.MSDASC.dll
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\Interop.VBIDE.dll
+D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\bin\Debug\App_data\BD.mdb

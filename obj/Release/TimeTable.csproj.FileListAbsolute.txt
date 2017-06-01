@@ -1,0 +1,15 @@
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\bin\Release\TimeTable.exe.config
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.csproj.ResolveComReference.cache
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\bin\Release\TimeTable.exe
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\bin\Release\TimeTable.pdb
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.csprojResolveAssemblyReference.cache
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.FillinBD.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.Menu.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.Main.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.Properties.Resources.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.csproj.GenerateResource.Cache
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.exe
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.pdb
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.Forms.Calendar.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.Forms.FillInBD.SubWorksEditForm.resources
+C:\Users\Vavan19\Documents\Visual Studio 2015\Projects\TimeTable\TimeTable\obj\Release\TimeTable.PracticeAndGroup.resources

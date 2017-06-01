@@ -1,0 +1,144 @@
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1251' />
+<style>
+pre{font-family:courier;font-size:14pt;
+</style>
+<pre>
+'2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+BP=            12           Name          D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb
+BP=            12           Connect       
+BP=            1            Transactions  True
+BP=            1            Updatable     True
+BP=            3            CollatingOrder               1033 
+BP=            3            QueryTimeout   60 
+BP=            12           Version       4.0
+BP=            4            RecordsAffected              0 
+BP=            15           ReplicaID     
+BP=            15           DesignMasterID              
+BP=            0            Connection
+BP=            4            ANSI Query Mode              0 
+BP=            4            Themed Form Controls         1 
+BP=            4            Use Microsoft Access 2007 compatible cache               0 
+BP=            4            Clear Cache on Close         0 
+BP=            4            Never Cache    0 
+BP=            10           AccessVersion 08.50
+BP=            4            Show Navigation Pane Search Bar            1 
+BP=            2            UseMDIMode     0 
+BP=            1            ShowDocumentTabs            True
+BP=            4            Picture Property Storage Format            1 
+BP=            2            WebDesignMode  0 
+BP=            4            CheckTruncatedNumFields      1 
+BP=            3            ProjVer        140 
+BP=            3            HasOfflineLists              70 
+BP=            4            NavPane Closed               0 
+BP=            4            NavPane Width  215 
+BP=            4            NavPane Sort By              1 
+BP=            4            Track Name AutoCorrect Info  0 
+BP=            4            Perform Name AutoCorrect     0 
+BP=            4            Build          666 
+BP=            4            NavPane Category             0 
+BP=            4            NavPane View By              0 
+
+'References='2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+VBA           C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL
+Access        C:\Program Files (x86)\Microsoft Office\Office16\MSACC.OLB
+stdole        C:\Windows\SysWOW64\stdole2.tlb
+VBIDE         C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB
+DAO           C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\dao360.dll
+
+'SCRIPTS='2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+
+TableDefs='2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+
+``t=          Class ???????= 6  
+`Код` 4 ` 4 
+`Name` 10 ` 255 
+
+``t=          EmploymentPupils ???????= 12  
+`GroupCode` 4 ` 4 
+`PracticeCode` 4 ` 4 
+`Code` 4 ` 4 
+`NPudgroup` 4 ` 4 
+`Begining` 8 ` 8 
+`ending` 8 ` 8 
+`workGroupCode` 4 ` 4 
+
+``t=          Group ???????= 12  
+`Name` 10 ` 255 
+`Code` 4 ` 4 
+
+``t=          Practices ???????= 14  
+`Name` 10 ` 255 
+`Code` 4 ` 4 
+`Timing` 4 ` 4 
+
+``t=          SubWorks ???????= 20  
+`Class` 4 ` 4 
+`Timing` 4 ` 4 
+`Name` 10 ` 255 
+`Code` 4 ` 4 
+`PractiseCode` 4 ` 4 
+
+'QueryDefs='2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+
+``z=          addInWorks
+ INSERT INTO Works ( Teacher, Works.GroupName, Timing, NumbOfPodGroupe, Class, Name )
+SELECT 5 AS Выражение1, 204 AS Выражение2, 144 AS Выражение3, 2 AS Выражение4, 4 AS Выражение5, '144' AS Выражение6;
+
+
+``z=          Class Запрос
+ SELECT Count(Class.[Код]) AS [Count-Код]
+FROM Class;
+
+
+``z=          ClassesNames
+ SELECT Class.Name
+FROM Class;
+
+
+``z=          groupsnames
+ SELECT Group.Name, Group.Code
+FROM [Group];
+
+
+``z=          practiceslist
+ SELECT Practices.Name, Practices.Code, Practices.Timing
+FROM Practices;
+
+
+``z=          SubWorks Запрос
+ SELECT SubWorks.[Name], SubWorks.[Timing], SubWorks.[Class]
+FROM SubWorks;
+
+
+``z=          TeachersNames
+ SELECT Teacher.Name
+FROM Teacher;
+
+
+``z=          test
+ SELECT Teacher.Name, Works.Name, Works.NumbOfPodGroupe, Group.Name, Works.Class, Works.code, Works.Timing
+FROM Teacher INNER JOIN ([Group] INNER JOIN Works ON Group.Code = Works.GroupName) ON Teacher.Код = Works.Teacher
+WHERE (((Works.Name)="Механическая") AND ((Group.Name)="ТОМ-21"));
+
+
+``z=          Works Запрос
+ SELECT Works.[Teacher], Works.[Group], Works.[Timing], Works.[NumbOfPodGroupe], Works.[Class], Works.[Name]
+FROM Works;
+
+
+``z=          WorksTable
+ SELECT Group.Name, Group.Code, Teacher.Name, Class.Name, Works.Name, Works.Timing, Works.NumbOfPodGroupe, Works.Class
+FROM Teacher INNER JOIN ([Group] INNER JOIN (Class INNER JOIN Works ON Class.Код = Works.Class) ON Group.Code = Works.GroupName) ON Teacher.Код = Works.Teacher
+WHERE (((Group.Name)="ТОС-21"));
+
+
+``z=          Запрос1
+ SELECT Practices.Name, SubWorks.*
+FROM Practices INNER JOIN SubWorks ON Practices.Code = SubWorks.PractiseCode;
+
+'forms='2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+'reports='2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+
+'modules='2/19/2017 2:13:16 PM= = D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\App_data\BD.mdb = =
+'\\fin
