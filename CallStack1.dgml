@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @11 @17 Member=CreateGenomes)" Category="CodeSchema_Method" Bounds="945.568333333333,360.1575,120.366666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="CreateGenomes" Icon="CodeSchema_Method" Label="CreateGenomes" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GAPractices/GA.cs&quot; StartLineNumber=248 StartCharacterOffset=0 EndLineNumber=248 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @11 @17 Member=CreateNextGeneration)" Category="CodeSchema_Method" Bounds="677.848333333333,302.51,153.806666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="CreateNextGeneration" Icon="CodeSchema_Method" Label="CreateNextGeneration" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GAPractices/GA.cs&quot; StartLineNumber=257 StartCharacterOffset=0 EndLineNumber=257 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @11 @6 Member=get_Fin)" Category="CodeSchema_Method" Bounds="861.778333333333,302.51,73.9466666666667,25.96" CodeSchemaProperty_IsPropertyGet="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="get_Fin" Icon="CodeSchema_Method" Label="get_Fin" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GAPractices/Genome.cs&quot; StartLineNumber=374 StartCharacterOffset=0 EndLineNumber=374 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @17 Member=CreateGenomes)" Category="CodeSchema_Method" Bounds="397.568333333333,360.1575,120.366666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="CreateGenomes" Icon="CodeSchema_Method" Label="CreateGenomes" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/GA.cs&quot; StartLineNumber=241 StartCharacterOffset=0 EndLineNumber=241 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @17 Member=InitialValues)" Category="CodeSchema_Method" Bounds="0,302.51,99.5033333333333,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="InitialValues" Icon="CodeSchema_Method" Label="InitialValues" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/GA.cs&quot; StartLineNumber=52 StartCharacterOffset=0 EndLineNumber=52 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=get_Fin)" Category="CodeSchema_Method" Bounds="129.778333333333,302.51,73.9466666666667,25.96" CodeSchemaProperty_IsPropertyGet="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="get_Fin" Icon="CodeSchema_Method" Label="get_Fin" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/Genome.cs&quot; StartLineNumber=309 StartCharacterOffset=0 EndLineNumber=309 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 Type=(Name=TTListElement ParentType=Genome) Member=(Name=reRandDayBegin OverloadingParameters=[@10]))" Category="CodeSchema_Method" Bounds="267.833333333333,417.805,123.836666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="reRandDayBegin" Icon="CodeSchema_Method" Label="reRandDayBegin" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/Genome.cs&quot; StartLineNumber=187 StartCharacterOffset=0 EndLineNumber=187 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 Namespace=TimeTable.Work Type=(Name=Practice ParentType=GroupClass) Member=(Name=GetPracticeByCode OverloadingParameters=[@10,@10]))" Category="CodeSchema_Method" Bounds="546.55,475.4525,136.403333333333,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="GetPracticeByCode" Icon="CodeSchema_Method" Label="GetPracticeByCode" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/Work/GroupClass.cs&quot; StartLineNumber=114 StartCharacterOffset=0 EndLineNumber=114 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 Namespace=TimeTables.GATTable Type=GATTableGoMethod Member=(Name=Factorial OverloadingParameters=[@10]))" Category="CodeSchema_Method" Bounds="435.401666666667,475.452500000001,80.7,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Factorial" Icon="CodeSchema_Method" Label="Factorial" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GATTableGoMethod.cs&quot; StartLineNumber=130 StartCharacterOffset=0 EndLineNumber=130 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=TimeTable.GATTable.Genome.Crossover @23 @24 OverloadingParameters=[(@25 Name=genome2),(@25 Name=child1),(@25 Name=child2)] @26)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="173.728333333333,360.1575,88.0466666666667,25.96" Label="Crossover" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/Genome.cs&quot; StartLineNumber=116 StartCharacterOffset=0 EndLineNumber=116 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@12" Category="CodeSchema_Method" Bounds="966.348333333333,302.51,78.806666666667,25.96" CodeSchemaProperty_IsPropertySet="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="set_Max" Icon="CodeSchema_Method" Label="set_Max" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GAPractices/Genome.cs&quot; StartLineNumber=350 StartCharacterOffset=0 EndLineNumber=350 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@13" Category="CodeSchema_Method" Bounds="418.348333333333,302.51,78.8066666666667,25.96" CodeSchemaProperty_IsPropertySet="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="set_Max" Icon="CodeSchema_Method" Label="set_Max" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/Genome.cs&quot; StartLineNumber=285 StartCharacterOffset=0 EndLineNumber=285 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@14" Category="CodeSchema_Method" Bounds="547.53,417.805,134.443333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="CompareGenomes" Icon="CodeSchema_Method" Label="CompareGenomes" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GATTableGoMethod.cs&quot; StartLineNumber=72 StartCharacterOffset=0 EndLineNumber=72 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@15" Category="CodeSchema_Method" Bounds="541.753333333333,129.5675,107.996666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="button1_Click" Icon="CodeSchema_Method" Label="button1_Click" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/Main.cs&quot; StartLineNumber=74 StartCharacterOffset=0 EndLineNumber=74 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_Method" Bounds="403.753333333333,129.5675,107.996666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="button2_Click" Icon="CodeSchema_Method" Label="button2_Click" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/Main.cs&quot; StartLineNumber=52 StartCharacterOffset=0 EndLineNumber=52 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@18" Category="CodeSchema_Method" Bounds="349.765,244.8625,51.9733333333334,25.96" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="GA" Icon="CodeSchema_Method" Label="GA" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/GA.cs&quot; StartLineNumber=35 StartCharacterOffset=0 EndLineNumber=35 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@19" Category="CodeSchema_Method" Bounds="233.848333333333,302.51,153.806666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="CreateNextGeneration" Icon="CodeSchema_Method" Label="CreateNextGeneration" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/GA.cs&quot; StartLineNumber=271 StartCharacterOffset=0 EndLineNumber=271 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@20" Category="CodeSchema_Method" Bounds="564.461666666667,57.6475,62.5799999999999,25.96" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsStatic="True" CommonLabel="Main" Icon="CodeSchema_Method" Label="Main" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/Program.cs&quot; StartLineNumber=18 StartCharacterOffset=0 EndLineNumber=18 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@21" Category="CodeSchema_Method" Bounds="292.71,360.1575,74.0833333333333,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Mutate" Icon="CodeSchema_Method" Label="Mutate" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/Genome.cs&quot; StartLineNumber=139 StartCharacterOffset=0 EndLineNumber=139 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@22" Category="CodeSchema_Method" Bounds="528.033333333333,302.51,119.436666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="RankPopulation" Icon="CodeSchema_Method" Label="RankPopulation" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/GA.cs&quot; StartLineNumber=220 StartCharacterOffset=0 EndLineNumber=220 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@27" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="432.12,244.8625,51.2633333333333,25.96" Label="Go" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GATTable/GAlgorithm/GA.cs&quot; StartLineNumber=92 StartCharacterOffset=0 EndLineNumber=92 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@28" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="729.12,244.8625,51.2633333333333,25.96" Label="Go" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GAPractices/GA.cs&quot; StartLineNumber=71 StartCharacterOffset=0 EndLineNumber=71 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@29" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="424.95,187.215,65.6033333333332,25.96" Label="GoGa" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GATTableGoMethod.cs&quot; StartLineNumber=152 StartCharacterOffset=0 EndLineNumber=152 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@30" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="562.95,187.215,65.6033333333335,25.96" Label="GoGa" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/Documents/Visual Studio 2015/Projects/TimeTable/TimeTable/GAPractices/GAGoMethod.cs&quot; StartLineNumber=62 StartCharacterOffset=0 EndLineNumber=62 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_Method" Bounds="548.72,360.1575,132.063333333333,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="theActualFunction" Icon="CodeSchema_Method" Label="theActualFunction" SourceLocation="(Assembly=&quot;file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/GATTable/GATTableGoMethod.cs&quot; StartLineNumber=31 StartCharacterOffset=0 EndLineNumber=31 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="549.053333333333,0,93.3966666666665,25.96" Label="Внешний код">
+      <Category Ref="CallStackEntry" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="@12" Target="(@1 @11 @17 Member=CreateGenomes)" Category="CallStackDirectCall" Bounds="1005.75164794922,328.470001220703,0,22.6875" />
+    <Link Source="@13" Target="(@1 @2 @17 Member=CreateGenomes)" Category="CallStackDirectCall" Bounds="457.751678466797,328.470001220703,0,22.6875" />
+    <Link Source="@14" Target="(@1 Namespace=TimeTable.Work Type=(Name=Practice ParentType=GroupClass) Member=(Name=GetPracticeByCode OverloadingParameters=[@10,@10]))" Category="CallStackDirectCall" Bounds="614.751647949219,443.765014648438,0,22.6875" />
+    <Link Source="@14" Target="(@1 Namespace=TimeTables.GATTable Type=GATTableGoMethod Member=(Name=Factorial OverloadingParameters=[@10]))" Category="CallStackDirectCall" Bounds="515.362487792969,443.765014648438,68.0917358398438,28.2396545410156" />
+    <Link Source="@15" Target="@30" Category="CallStackDirectCall" Bounds="595.751647949219,155.527496337891,0,22.6875" />
+    <Link Source="@16" Target="@29" Category="CallStackDirectCall" Bounds="457.751678466797,155.527496337891,0,22.6875" />
+    <Link Source="@18" Target="(@1 @2 @17 Member=InitialValues)" Category="CallStackDirectCall" Bounds="108.365837097168,262.437805175781,241.39917755127,42.6872863769531" />
+    <Link Source="@19" Target="(Name=TimeTable.GATTable.Genome.Crossover @23 @24 OverloadingParameters=[(@25 Name=genome2),(@25 Name=child1),(@25 Name=child2)] @26)" Category="CallStackDirectCall" Bounds="246.341278076172,328.470001220703,43.4703674316406,26.9457702636719" />
+    <Link Source="@19" Target="@21" Category="CallStackDirectCall" Bounds="315.029724121094,328.470001220703,7.62664794921875,23.1398010253906" />
+    <Link Source="@20" Target="@15" Category="CallStackIndirectCall" Bounds="595.751647949219,83.6074981689453,0,36.9599990844727" Label="Внешний код" LabelBounds="522.355,98.6075000000001,73.3966666666668,15.96" />
+    <Link Source="@20" Target="@16" Category="CallStackIndirectCall" Bounds="472.516387939453,80.6735916137695,91.9460144042969,41.6788330078125" Label="Внешний код" LabelBounds="410.355,98.6075000000001,73.3966666666668,15.96" />
+    <Link Source="@21" Target="(@1 @2 Type=(Name=TTListElement ParentType=Genome) Member=(Name=reRandDayBegin OverloadingParameters=[@10]))" Category="CallStackDirectCall" Bounds="329.751678466797,386.117492675781,0,22.6875" />
+    <Link Source="@22" Target="@7" Category="CallStackDirectCall" Bounds="593.8310546875,328.470001220703,11.02392578125,23.5371704101563" />
+    <Link Source="@27" Target="(@1 @2 @6 Member=get_Fin)" Category="CallStackDirectCall" Bounds="212.51806640625,265.682708740234,219.601928710938,39.7080993652344" />
+    <Link Source="@27" Target="@13" Category="CallStackDirectCall" Bounds="457.751678466797,270.822509765625,0,22.6875" />
+    <Link Source="@27" Target="@19" Category="CallStackDirectCall" Bounds="352.229156494141,267.893890380859,79.8916931152344,31.3302917480469" />
+    <Link Source="@27" Target="@22" Category="CallStackDirectCall" Bounds="483.104705810547,269.085113525391,67.1485900878906,29.7765197753906" />
+    <Link Source="@28" Target="(@1 @11 @17 Member=CreateNextGeneration)" Category="CallStackDirectCall" Bounds="754.751647949219,270.822509765625,0,22.6875" />
+    <Link Source="@28" Target="(@1 @11 @6 Member=get_Fin)" Category="CallStackDirectCall" Bounds="780.37060546875,268.098541259766,77.6024780273438,31.0665588378906" />
+    <Link Source="@28" Target="@12" Category="CallStackDirectCall" Bounds="780.383361816406,263.729370117188,177.193359375,40.6962280273438" />
+    <Link Source="@29" Target="@18" Category="CallStackDirectCall" Bounds="401.577545166016,213.175003051758,37.7108764648438,26.5114288330078" />
+    <Link Source="@29" Target="@27" Category="CallStackDirectCall" Bounds="457.751678466797,213.175003051758,0,22.6875" />
+    <Link Source="@30" Target="@28" Category="CallStackDirectCall" Bounds="628.013427734375,211.89192199707,92.6455078125,33.5898284912109" />
+    <Link Source="@7" Target="@14" Category="CallStackDirectCall" Bounds="614.751647949219,386.117492675781,0,22.6875" />
+    <Link Source="ExternalCodeRootNode" Target="@20" Category="CallStackIndirectCall" Bounds="595.751647949219,25.9599990844727,0,22.6875" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="Прямой вызов стека вызовов" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Прямой вызов стека вызовов" OutgoingActionLabel="Прямой вызов стека вызовов" />
+    <Category Id="CallStackEntry" Label="Запись стека вызовов" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Запись стека вызовов" />
+    <Category Id="CallStackIndirectCall" Label="Косвенный вызов стека вызовов" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Косвенный вызов стека вызовов" OutgoingActionLabel="Косвенный вызов стека вызовов" />
+    <Category Id="CodeSchema_CallStackUnresolvedMethod" Label="Неразрешенный метод" CanBeDataDriven="True" DefaultAction="Microsoft.AllOutBoundLinks" IsProviderRoot="False" NavigationActionLabel="Неразрешенный метод" />
+    <Category Id="CodeSchema_Member" Label="Член" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Члены" />
+    <Category Id="CodeSchema_Method" Label="Метод" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Методы" />
+    <Category Id="CodeSchema_SourceLocation" Label="Расположение исходного кода" Icon="File" />
+    <Category Id="ExternalCallStackEntry" Label="Запись внешнего стека вызовов" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Запись внешнего стека вызовов" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="Является конструктором" Description="Флаг, указывающий, что метод является конструктором" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="Является Private" Description="Флаг, указывающий на область видимости Private" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPropertyGet" Label="Является Property Get" Description="Флаг, указывающий, что кадр является Property Get" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPropertySet" Label="Является Property Set" Description="Флаг, указывающий, что кадр является Property Set" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Является Public" Description="Флаг, указывающий на область видимости Public" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsStatic" Label="Является статическим" Description="Флаг, указывающий, что член является статическим" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Виртуализированные данные" Description="При значении true граф может содержать узлы и связи, которые представляют данные для виртуализированных узлов и связей (то есть которые не были фактически созданы в графе)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Значок" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Метка" Description="Отображаемая метка аннотируемого объекта" DataType="System.String" />
+    <Property Id="LabelBounds" DataType="System.Windows.Rect" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Номер начальной строки" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Сборка" ValueType="Uri" />
+    <Name Id="IsUnresolved" Label="Является неразрешенным" ValueType="System.String" />
+    <Name Id="Member" Label="Член" ValueType="System.Object" />
+    <Name Id="Name" Label="Имя" ValueType="System.String" />
+    <Name Id="Namespace" Label="Пространство имен" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Параметр" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParentType" Label="Родительский тип" ValueType="System.Object" />
+    <Name Id="Type" Label="Тип" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(dfe3a80a-598f-4411-9601-e64690a40871.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=TimeTable.GATTable" />
+    <Alias n="6" Id="Type=Genome" />
+    <Alias n="7" Id="(@1 Namespace=TimeTables.GATTable Type=GATTableGoMethod Member=(Name=theActualFunction OverloadingParameters=[(@1 @2 @6)]))" />
+    <Alias n="8" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5.2/mscorlib.dll" />
+    <Alias n="9" Id="Namespace=System" />
+    <Alias n="10" Id="(@8 @9 Type=Int32)" />
+    <Alias n="11" Id="Namespace=btl.generic" />
+    <Alias n="12" Id="(@1 @11 @6 Member=(Name=set_Max OverloadingParameters=[@10]))" />
+    <Alias n="13" Id="(@1 @2 @6 Member=(Name=set_Max OverloadingParameters=[@10]))" />
+    <Alias n="14" Id="(@1 Namespace=TimeTables.GATTable Type=GATTableGoMethod Member=(Name=CompareGenomes OverloadingParameters=[(@1 @2 Type=(Name=TTListElement ParentType=Genome)),(@1 @2 Type=(Name=TTListElement ParentType=Genome))]))" />
+    <Alias n="15" Id="(@1 Namespace=TimeTable Type=Main Member=(Name=button1_Click OverloadingParameters=[(@8 @9 Type=Object),(@8 @9 Type=EventArgs)]))" />
+    <Alias n="16" Id="(@1 Namespace=TimeTable Type=Main Member=(Name=button2_Click OverloadingParameters=[(@8 @9 Type=Object),(@8 @9 Type=EventArgs)]))" />
+    <Alias n="17" Id="Type=GA" />
+    <Alias n="18" Id="(@1 @2 @17 Member=(Name=.ctor OverloadingParameters=[(@8 @9 Type=Double),(@8 @9 Type=Double),@10,@10]))" />
+    <Alias n="19" Id="(@1 @2 @17 Member=CreateNextGeneration)" />
+    <Alias n="20" Id="(@1 Namespace=TimeTable Type=Program Member=Main)" />
+    <Alias n="21" Id="(@1 @2 @6 Member=Mutate)" />
+    <Alias n="22" Id="(@1 @2 @17 Member=RankPopulation)" />
+    <Alias n="23" Uri="Assembly=TimeTable.exe" />
+    <Alias n="24" Id="Type=void" />
+    <Alias n="25" Id="Type=TimeTable.GATTable.Genome" />
+    <Alias n="26" Id="IsUnresolved=True" />
+    <Alias n="27" Id="(Name=TimeTable.GATTable.GA.Go @23 @24 OverloadingParameters=[(@25 Name=outGenome)] @26)" />
+    <Alias n="28" Id="(Name=btl.generic.GA.Go @23 @24 OverloadingParameters=[(Type=btl.generic.Genome Name=uotGenome),(Type=TimeTable.Work.GroupClass.Practice Name=_practice)] @26)" />
+    <Alias n="29" Id="(Name=TimeTables.GATTable.GATTableGoMethod.GoGa @23 @24 OverloadingParameters=[(Type=double Name=Crossover),(Type=double Name=Mutation),(Type=int Name=Population),(Type=int Name=Generations),(@25 Name=outGenome)] @26)" />
+    <Alias n="30" Id="(Name=btl.generic.GAGoMethod.GoGa @23 @24 OverloadingParameters=[(Type=double Name=Crossover),(Type=double Name=Mutation),(Type=int Name=Population),(Type=int Name=Generations),(Type=btl.generic.Genome Name=uotGenome),(Type=TimeTable.Work.GroupClass.Practice Name=pract)] @26)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Текущий стек вызовов (без источника)" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('CodeSchema_SourceLocation')" />
+      <Setter Property="Background" Value="Transparent" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FF0072C6" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Текущий стек вызовов (источник)" ValueLabel="Да">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Внешний стек вызовов" ValueLabel="Да">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Результаты" ValueLabel="Да">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Тестовый проект" ValueLabel="Тестовый проект">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Веб-проект" ValueLabel="Веб-проект">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Проект Магазина Windows" ValueLabel="Проект Магазина Windows">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Проект Windows Phone" ValueLabel="Проект Windows Phone">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Переносимая библиотека" ValueLabel="Переносимая библиотека">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Проект WPF" ValueLabel="Проект WPF">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Проект VSIX" ValueLabel="Проект VSIX">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Проект моделирования" ValueLabel="Проект моделирования">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Сборка" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Пространство имен" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Интерфейс" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Структура" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Перечисление" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Делегат" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Класс" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Свойство" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Метод" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Событие" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Поле" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Параметр out" ValueLabel="Имеет категорию">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Параметр" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Локальная переменная" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Внешние" ValueLabel="Имеет категорию">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Наследует от" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Реализации" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Вызовы" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Указатель функции" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Чтение поля" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Запись поля" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Назад" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Ссылки" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Использует атрибут" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Папка решения" ValueLabel="Да" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Ссылка проекта" ValueLabel="Ссылка проекта">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Внешняя ссылка" ValueLabel="Внешняя ссылка">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Комментарий" ValueLabel="Имеет комментарий">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="dfe3a80a-598f-4411-9601-e64690a40871.OutputPath" Value="C:\Users\Vavan19\documents\visual studio 2015\Projects\TimeTable\TimeTable\bin\Debug\TimeTable.exe" />
+    <Path Id="dfe3a80a-598f-4411-9601-e64690a40871.OutputPathUri" Value="file:///C:/Users/Vavan19/documents/visual studio 2015/Projects/TimeTable/TimeTable/bin/Debug/TimeTable.exe" />
+    <Path Id="FxReferenceAssemblies" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>
