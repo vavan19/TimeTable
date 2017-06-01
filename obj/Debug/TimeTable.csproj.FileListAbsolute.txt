@@ -46,3 +46,9 @@ D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\
 D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\Interop.MSDASC.dll
 D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\obj\Debug\Interop.VBIDE.dll
 D:\Спец. Предметы\4 Четвертый курс\TimeTable\TimeTable\bin\Debug\App_data\BD.mdb
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\bin\Debug\TimeTable.exe.config
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\Interop.MSDASC.dll
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\Interop.VBIDE.dll
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.csproj.ResolveComReference.cache
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.exe
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.pdb
