@@ -32,9 +32,7 @@ namespace TimeTable
                 myAccessConn.Close();
             }
             catch(Exception ex)
-            {
-                
-
+            {                
                 MessageBox.Show("Не удалось найти базу данных");
             }
         }   
@@ -263,6 +261,38 @@ namespace TimeTable
         public string StrAccessSelect
         {
             get { return strAccessSelect; }
+        }
+        static public bool AddQuery(string query)
+        {
+            string strAccessConn = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Application.StartupPath.ToString() + "\\DB.mdb";
+            OleDbConnection myAccessConn = new OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Application.StartupPath.ToString() + "\\BD.mdb");
+            DataTable dataset = new DataTable();
+            myAccessConn.Open();
+
+            OleDbCommand add = new OleDbCommand(query, myAccessConn);
+
+            OleDbDataAdapter myDataAdapter = new OleDbDataAdapter(add);
+            myDataAdapter.InsertCommand = add;
+            add.ExecuteNonQuery();
+            myAccessConn.Close();
+
+            return true;
+        }
+        static public bool RemoveQuery(string query)
+        {
+            string strAccessConn = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Application.StartupPath.ToString() + "\\DB.mdb";
+            OleDbConnection myAccessConn = new OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Application.StartupPath.ToString() + "\\BD.mdb");
+            DataTable dataset = new DataTable();
+            myAccessConn.Open();
+
+            OleDbCommand remove = new OleDbCommand(query, myAccessConn);
+
+            OleDbDataAdapter myDataAdapter = new OleDbDataAdapter(remove);
+            myDataAdapter.DeleteCommand = remove;
+            remove.ExecuteNonQuery();
+            myAccessConn.Close();
+
+            return true;
         }
     }
 }

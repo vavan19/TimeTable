@@ -14,9 +14,12 @@ namespace TimeTable
     public partial class Menu : Form
     {
         BD dataBase = new BD();
+        Forms.FillMastersWorks formFillMastersWorks = new Forms.FillMastersWorks();
         public Menu()
         {
-            InitializeComponent();            
+            InitializeComponent();
+            Masters.MasterModel masterModel = new Masters.MasterModel(dataBase);
+            formFillMastersWorks.MastersModel = masterModel;            
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -77,6 +80,21 @@ namespace TimeTable
         private void Menu_Load(object sender, EventArgs e)
         {
                         
+        }
+
+        private void labelDistributionWorks_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelFillMasters_Click(object sender, EventArgs e)
+        {            
+            Visible = false;
+            formFillMastersWorks.ShowDialog();          
+  
+            var sleep = formFillMastersWorks.DialogResult; // waiting for clousing the form
+            this.Visible = true;
+
         }
     }
 }

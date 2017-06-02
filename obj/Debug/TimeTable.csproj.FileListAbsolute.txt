@@ -52,3 +52,15 @@ D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj
 D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.csproj.ResolveComReference.cache
 D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.exe
 D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.pdb
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\bin\Debug\App_data\BD.mdb
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\bin\Debug\TimeTable.exe
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\bin\Debug\TimeTable.pdb
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.csprojResolveAssemblyReference.cache
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.Forms.Calendar.resources
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.FillinBD.resources
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.Forms.FillInBD.SubWorksEditForm.resources
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.Menu.resources
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.Main.resources
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.PracticeAndGroup.resources
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+D:\Спец. Предметы\4 Четвертый курс\diplom\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.Cache
